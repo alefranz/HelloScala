@@ -1,6 +1,3 @@
-package helloscalatest
-
-import helloscala.HelloWorld
 import org.scalatest.funsuite.AnyFunSuite
 
 class HelloWorldTest extends AnyFunSuite {
